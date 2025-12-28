@@ -1,3 +1,6 @@
 untracked/
-__pycache__/
 .vscode/
+__pycache__/
+# MacOS
+.DS_Store
+**/._*.DS_Storec
