@@ -71,4 +71,4 @@
 ## 📄 参考文献与致谢 (Acknowledgements)
 
 - 感谢原框架作者 **RyannDaGreat** 提供的灵感与强大的基础代码库：[**Diffusion-Illusions**](https://github.com/RyannDaGreat/Diffusion-Illusions)。
-- 本项目是在计算机视觉课程的指导下完成的，旨在加深对图像生成模型、潜空间优化（Latent Optimization）和视错觉构成的理解。
+- 本项目是在王鹏帅老师的计算机视觉课程的指导下完成的，旨在加深对图像生成模型、潜空间优化（Latent Optimization）和视错觉构成的理解。
